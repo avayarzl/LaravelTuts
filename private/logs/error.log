@@ -1,0 +1,5 @@
+[Sat Dec 14 09:05:50 2013] [crit] [client 127.0.0.1] (13)Permission denied: /home/rzl/Public/laravel/laravel-tuts/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable
+[Sat Dec 14 09:05:50 2013] [crit] [client 127.0.0.1] (13)Permission denied: /home/rzl/Public/laravel/laravel-tuts/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable
+[Sat Dec 14 09:05:50 2013] [crit] [client 127.0.0.1] (13)Permission denied: /home/rzl/Public/laravel/laravel-tuts/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable
+[Sat Dec 14 09:08:29 2013] [crit] [client 127.0.0.1] (13)Permission denied: /home/rzl/Public/laravel/laravel-tuts/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable
+[Sat Dec 14 09:10:18 2013] [crit] [client 127.0.0.1] (13)Permission denied: /home/rzl/Public/laravel/laravel-tuts/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable
